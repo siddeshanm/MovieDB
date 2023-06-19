@@ -1,2 +1,2 @@
 # MovieDB
-Web App that Uses MovieDB api to search movies
+Web App that Uses MovieDB API to search movies
